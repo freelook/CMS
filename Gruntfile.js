@@ -42,6 +42,8 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-exec');
+
+    // Load tasks
     grunt.loadTasks('tasks');
 
     // Default task.

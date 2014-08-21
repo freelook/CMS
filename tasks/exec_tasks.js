@@ -1,8 +1,10 @@
+var config = require('../ConfigService');
+
 module.exports = function(grunt) {
 
     grunt.config.set('exec', {
         run: {
-            command: 'lineman',
+            command: 'grunt rundata:' + config['data'],
             stdout: true,
             stderr: true
         }
