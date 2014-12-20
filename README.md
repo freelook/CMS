@@ -22,3 +22,5 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2014 Dima Kostrub  
 Licensed under the MIT license.
+
+## [FREE LOOK AT INFO](http://freelook.info)
